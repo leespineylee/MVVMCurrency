@@ -1,0 +1,5 @@
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\.vs\Currency\lut\0\b\Currency\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\.vs\Currency\lut\0\b\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\.vs\Currency\lut\0\i\Currency\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\.vs\Currency\lut\0\i\Currency\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\.vs\Currency\lut\0\i\Currency\Debug\Currency.pdb

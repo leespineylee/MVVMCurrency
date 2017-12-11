@@ -1,0 +1,39 @@
+c:\users\tonyf\documents\visual studio 2017\Projects\Currency\Currency\bin\Debug\Currency.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\Currency\Currency\bin\Debug\Currency.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+c:\users\tonyf\documents\visual studio 2017\Projects\Currency\Currency\obj\Debug\Currency.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\Currency (2)\Currency\Currency\Currency\obj\Debug\Currency.pdb

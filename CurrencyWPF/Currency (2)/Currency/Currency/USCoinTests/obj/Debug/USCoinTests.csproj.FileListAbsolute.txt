@@ -1,0 +1,58 @@
+c:\Users\tonyf\documents\visual studio 2017\Projects\Currency\USCoinTests\obj\Debug\USCoinTests.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\USCoinTests.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\USCoinTests.pdb
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Currency.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Currency.pdb
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\obj\Debug\USCoinTests.dll
+C:\Users\tonyf\Documents\Visual Studio 2017\Projects\Currency\USCoinTests\obj\Debug\USCoinTests.pdb
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.pdb
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.dll
+C:\Users\anthony.fragale\Desktop\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.dll
+C:\Users\anthony.fragale\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\USCoinTests.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\USCoinTests\obj\Debug\USCoinTests.pdb

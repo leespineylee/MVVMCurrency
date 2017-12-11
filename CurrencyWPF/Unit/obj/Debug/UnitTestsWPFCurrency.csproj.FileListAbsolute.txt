@@ -1,0 +1,70 @@
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Unit.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Unit.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Currency.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Currency.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe.config
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csprojResolveAssemblyReference.cache
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\obj\Debug\Unit.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\Unit\obj\Debug\Unit.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe.config
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe.config
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Unit.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\CurrencyWPF.exe.config
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\bin\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\UnitTestsWPFCurrency.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\Unit\obj\Debug\Unit.pdb

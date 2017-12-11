@@ -1,0 +1,4 @@
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\Currency\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\Currency\bin\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\i\Currency\Debug\Currency.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\i\Currency\Debug\Currency.pdb

@@ -1,0 +1,8 @@
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\USCoinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\USCoinTests\bin\Debug\USCoinTests.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\b\USCoinTests\bin\Debug\USCoinTests.pdb
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\i\USCoinTests\Debug\USCoinTests.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\i\USCoinTests\Debug\USCoinTests.dll
+C:\Users\tonyf\Desktop\Currency (2)\Currency\Currency\.vs\Currency\3800\i\USCoinTests\Debug\USCoinTests.pdb

@@ -1,0 +1,136 @@
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe.config
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csprojResolveAssemblyReference.cache
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\App.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.cache
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.lref
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.baml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.g.resources
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.Properties.Resources.resources
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.GenerateResource.Cache
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.exe
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.baml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.g.cs
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.dll
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.pdb
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.baml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.baml
+c:\users\tonyf\documents\visual studio 2017\Projects\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\App.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.lref
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe.config
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.g.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.Properties.Resources.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.GenerateResource.Cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe.config
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\App.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.lref
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.g.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.Properties.Resources.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.GenerateResource.Cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe.config
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.dll
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csprojResolveAssemblyReference.cache
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlGraphic.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\App.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.cache
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.lref
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlGraphic.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.baml
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.g.resources
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.Properties.Resources.resources
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.GenerateResource.Cache
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.exe
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.pdb
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\ControlGraphicWindow.g.cs
+C:\Users\tonyf\Desktop\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\ControlGraphicWindow.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe.config
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\CurrencyWPF.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.dll
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\bin\Debug\Currency.pdb
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csprojResolveAssemblyReference.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\ControlGraphicWindow.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlGraphic.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\App.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF_MarkupCompile.lref
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\ControlGraphicWindow.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MainWindow.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\MakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlGraphic.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlMakeChange.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\Views\UserControlRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\WindowRepo.baml
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.g.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.Properties.Resources.resources
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.GenerateResource.Cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.csproj.CoreCompileInputs.cache
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.exe
+C:\Users\anthony.fragale\Desktop\CurrencyWPF_Current\CurrencyWPF\CurrencyWPF\CurrencyWPF\CurrencyWPF\obj\Debug\CurrencyWPF.pdb
